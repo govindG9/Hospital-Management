@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hospital Management 
 
 ## Table Of Contents
@@ -101,4 +100,3 @@ TO Delete all the migration files : rm -r */migrations
 =======
 # Hospital-Management
 A Django-based Hospital Management System that allows doctors to manage appointments and share blogs, while patients can book consultations, track history, and interact through a responsive web interface.
->>>>>>> 652d96a962959e46b47b22fa2fd83410f2a9be5f
